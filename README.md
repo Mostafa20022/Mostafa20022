@@ -12,6 +12,8 @@ I'm **Mostafa Saber Abdul Zahir**, a dedicated **penetration tester** and **cybe
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![API Development](https://img.shields.io/badge/API%20Development-FF6F00?style=for-the-badge&logo=api&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-8A2BE2?style=for-the-badge&logo=data&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF4500?style=for-the-badge&logo=lightbulb&logoColor=white)
@@ -22,8 +24,9 @@ I'm **Mostafa Saber Abdul Zahir**, a dedicated **penetration tester** and **cybe
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF4500?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)  
 ![Application Security](https://img.shields.io/badge/Application%20Security-990000?style=for-the-badge&logo=security&logoColor=white)
+![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-FF5733?style=for-the-badge&logo=security&logoColor=white)
 
 ---
