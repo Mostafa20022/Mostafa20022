@@ -1,5 +1,6 @@
 
 ### 👋 Welcome to my GitHub!  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75B05&width=435&lines=Jr.Penetration+Tester)](https://git.io/typing-svg)  
 I'm **Mostafa Saber Abdul Zahir**, a dedicated **penetration tester** and **cybersecurity specialist**. I hold a Bachelor's degree in **Information Technology** from the **Faculty of Computers and AI**, Egypt. My passion lies in securing web applications and identifying vulnerabilities through ethical hacking.
 
 ---
