@@ -29,6 +29,9 @@ I'm **Mostafa Saber Abdul Zahir**, a dedicated **penetration tester** and **cybe
 ![Application Security](https://img.shields.io/badge/Application%20Security-990000?style=for-the-badge&logo=security&logoColor=white)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-FF5733?style=for-the-badge&logo=security&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-003B2F?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ---
 
